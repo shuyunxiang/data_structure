@@ -1,4 +1,6 @@
-package com.doudou.linkedlist;
+package com.doudou.singlelinkedlist;
+
+import java.util.ArrayList;
 
 public class Test {
     public static void main(String[] args) {
@@ -23,5 +25,6 @@ public class Test {
         linkedList1.addNodeByOrder(first1);
         linkedList1.addNodeByOrder(second1);
         linkedList1.showList();
+
     }
 }
